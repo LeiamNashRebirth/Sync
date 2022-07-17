@@ -5,7 +5,7 @@ NodeJS Update
 
 <Br>
 
-New version support
+New version 
 - [ ] 14
 - [ ] 15
 - [ ] 16
@@ -17,9 +17,35 @@ You can choose what version would you like to use
 Go to the shell and type
 
 ``` js
-bash Sync.bash
-Or
 bash LeiamNash.bash
+```
+<Br>
+
+Command version update
+- [ ] Version 14
+``` js
+npm i --save-dev node@14
+```
+
+- [ ] Version 15
+``` js
+npm i --save-dev node@15
+```
+
+- [ ] Version 16
+``` js
+npm i --save-dev node@16
+```
+
+- [ ] Version 17
+``` js
+npm i --save-dev node@17
+```
+
+Install
+
+``` js
+bash Sync.bash
 ```
 
 <Br>
